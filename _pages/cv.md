@@ -11,7 +11,7 @@ redirect_from:
 
 {% pdf "queermedia.github.io/assets/pdf/yfzcv.pdf" %}
 
-#<a href="/assets/pdf/yfzcv.pdf" target="_blank">PDF</a>
+
 
 Education
 ======
