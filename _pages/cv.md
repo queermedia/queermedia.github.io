@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-{% pdf "/assets/pdf/yfzcv.pdf" %}
+{% pdf "queermedia.github.io/assets/pdf/yfzcv.pdf" %}
+
+<a href="queermedia.github.io/assets/pdf/yfzcv.pdf" target="_blank">PDF.</a>
 
 Education
 ======
