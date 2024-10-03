@@ -302,7 +302,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
+  - jekyll-pdf-embed
+  
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
@@ -310,7 +311,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-pdf-embed
+  
 
 # Archives
 #  Type
