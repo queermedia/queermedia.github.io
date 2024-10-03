@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+profile:
+  align: right
+  image: zyf.jpg #prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: 
  
 I am Yifei Zhu, a researcher and educator based at the City College of Huizhou, China. I hold a Master's degree in Radio and Television Planning and Production from the Communication University of China, and I am passionate about cultural studies, fan studies, BL web novels, comics/radio dramas, gender and sexuality, with a particular focus on Chinese and Asian media. My academic work includes several published articles and book chapters, where I explore the intersection of artificial intelligence and media production. 
 
