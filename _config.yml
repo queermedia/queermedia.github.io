@@ -310,7 +310,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
+  - jekyll-pdf-embed
 
 # Archives
 #  Type
