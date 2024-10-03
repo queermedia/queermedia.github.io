@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% pdf "/assets/pdf/YifeiZhuCV.pdf" %}
+{% pdf "/assets/pdf/yfzcv.pdf" %}
 
 Education
 ======
