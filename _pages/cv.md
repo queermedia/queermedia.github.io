@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% pdf "queermedia.github.io/assets/pdf/yfzcv.pdf" %}
+{% pdf /files/pdf/yfzcv.pdf %}
 
 
 
