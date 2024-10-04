@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# {% pdf /files/pdf/yfzcv.pdf %}
+ 
 
 {% with pdf_file = "files/pdf/yfzcv.pdf" %}
 
