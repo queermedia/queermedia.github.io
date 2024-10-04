@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: false
 cv_pdf: queermedia.github.io/files/pdf/yfzcv.pdf
