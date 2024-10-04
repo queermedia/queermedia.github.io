@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "ZHUYIFEI"
-title_separator          : ""
+title_separator          : " - "
 #name                     : "" # &name ""
 description              : # &description "personal description"
 url                      : https://queermedia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
