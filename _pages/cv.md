@@ -15,6 +15,6 @@ redirect_from:
         <title>Embedded HTML</title>
     </head>
     <body>
-        {% include zyfcv.html %}
+        {% include /_pages/zyfcv.html %}
     </body>
 </html>
