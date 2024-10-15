@@ -1,20 +1,25 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#type: "Undergraduate course"
+permalink: /teaching/teaching-1
+#venue: "University 1, Department"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+教学经历1：Course Digital Media Marketing and Promotion Design
+简要描述：It prepared students for roles like digital marketing specialist and social media manager 
+ and aligned with competitions and certifications. The course integrated real-world marketing projects 
+ and case studies to bridge theory and practice. 
 
-Heading 1
-======
+{% include base_path %}
 
-Heading 2
-======
-
-Heading 3
-======
+<html>
+    <head>
+        <title>Embedded HTML</title>
+    </head>
+    <body>                
+          {% include zyfTeaching1.html %}       
+    </body>
+</html>
