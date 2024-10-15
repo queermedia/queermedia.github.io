@@ -2,7 +2,7 @@
 title: "教学经历2"
 collection: teaching
 # type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-2
 #venue: ""
 # date: ""
 #location: ""
