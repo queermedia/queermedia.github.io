@@ -1,9 +1,9 @@
 ---
 title: "教学经历2"
 collection: teaching
-type: "Workshop"
+# type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: ""
+#venue: ""
 # date: ""
 #location: ""
 ---
