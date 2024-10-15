@@ -12,5 +12,4 @@ paperurl: '/files/pdf/book CI Corporate Identity Design Project based Tutorial.p
 ---
 
 CI Corporate Identity Design Project-based Tutorial. (2024). Huazhong University of Science and Technology Press. ISBN 978-7-5772-0715-5. 
-
-	Wrote the fourth section of Module 2, Practical Training, Project 3, Development of VI Design and Production of Application Elements, approximately 10,000 words.
+Wrote the fourth section of Module 2, Practical Training, Project 3, Development of VI Design and Production of Application Elements, approximately 10,000 words.
