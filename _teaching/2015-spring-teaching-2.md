@@ -15,6 +15,7 @@ This course is designed to teach students the principles of visual design in cin
 Through practical training, students will learn to operate cameras, camcorders, and smartphones, 
 mastering key techniques such as adjusting aperture, shutter speed, and composition. 
 
+{% include base_path %}
 
 <html>
     <head>
