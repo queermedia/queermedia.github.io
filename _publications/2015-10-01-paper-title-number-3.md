@@ -1,5 +1,5 @@
 ---
-title: "Paper Title 1: Application of Artificial Intelligence in the Production and Distribution of Interview Programs on Bilibili"
+title: "Paper Title 1"
 collection: publications
 category: manuscripts
 permalink: /publication/Paper Title 1
