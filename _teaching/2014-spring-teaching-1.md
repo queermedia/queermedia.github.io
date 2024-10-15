@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "教学经历1"
 collection: teaching
 #type: "Undergraduate course"
 permalink: /teaching/teaching-1
@@ -8,7 +8,8 @@ permalink: /teaching/teaching-1
 #location: "City, Country"
 ---
 
-教学经历1：Course Digital Media Marketing and Promotion Design
+Course Digital Media Marketing and Promotion Design
+
 简要描述：It prepared students for roles like digital marketing specialist and social media manager 
  and aligned with competitions and certifications. The course integrated real-world marketing projects 
  and case studies to bridge theory and practice. 
