@@ -4,8 +4,8 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: ""
-date: ""
-location: ""
+# date: ""
+#location: ""
 ---
 
 Course Photography and Cinematography Techniques
