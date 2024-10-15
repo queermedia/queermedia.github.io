@@ -12,4 +12,4 @@ paperurl: '/files/pdf/The Application of Artificial Intelligence in Bilibili.pdf
 ---
 
 Yifei,Zhu. "Application of Artificial Intelligence in the Production and Distribution of Interview Programs on Bilibili " High Above, vol. 30, no. 07-4 (2024):94-96.ISSN2096-0557.
-	Utilized case study and practice-based research methods to explore AI's impact on interview programs.
+  Utilized case study and practice-based research methods to explore AI's impact on interview programs.
