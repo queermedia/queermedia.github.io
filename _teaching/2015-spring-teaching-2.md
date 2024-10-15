@@ -22,6 +22,6 @@ mastering key techniques such as adjusting aperture, shutter speed, and composit
         <title>Embedded HTML</title>
     </head>
     <body>
-        {% include zyfTeching2.html %}
+        {%zyfTeching2.html%}
     </body>
 </html>
