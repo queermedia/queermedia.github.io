@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 2"
+title: "教学经历2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: ""
+date: ""
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Photography and Cinematography Techniques
 
-Heading 1
-======
+简要描述：
+This course is designed to teach students the principles of visual design in cinematography. 
+Through practical training, students will learn to operate cameras, camcorders, and smartphones, 
+mastering key techniques such as adjusting aperture, shutter speed, and composition. 
 
-Heading 2
-======
 
-Heading 3
-======
+<html>
+    <head>
+        <title>Embedded HTML</title>
+    </head>
+    <body>
+        {% include zyfTeching2.html %}
+    </body>
+</html>
