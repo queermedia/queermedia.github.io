@@ -1,9 +1,9 @@
 ---
-title: "Book Chapter Title 1"
+title: "Book Chapter Title 1: CI Corporate Identity Design Project-based Tutorial"
 collection: publications
 category: books
 permalink: /publication/Book Chapter Title 1
-excerpt: 'CI Corporate Identity Design Project-based Tutorial'
+#excerpt: 'CI Corporate Identity Design Project-based Tutorial'
 #date: 2009-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
