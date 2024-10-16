@@ -2,7 +2,7 @@
 title: "Paper Title 1: Application of Artificial Intelligence in the Production and Distribution of Interview Programs on Bilibili"
 collection: publications
 category: manuscripts
-permalink: /publication/Paper Title 1
+permalink: /publication/Journal Paper Title 1
 #excerpt: 'Application of Artificial Intelligence in the Production and Distribution of Interview Programs on Bilibili '
 #date: 2015-10-01
 #venue: 'Journal 1'
