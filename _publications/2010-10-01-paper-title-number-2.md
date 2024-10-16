@@ -1,5 +1,5 @@
 ---
-title: "Paper Title 2: A Study on the Educational and Entertaining Aspects of the Cultural Reality Show "One Meal Across Millennium" "
+title: "Paper Title 2: A Study on the Educational and Entertaining Aspects of the Cultural Reality Show 'One Meal Across Millennium' "
 collection: publications
 category: manuscripts
 permalink: /publication/Journal Paper Title 2
