@@ -1,9 +1,9 @@
 ---
-title: "Paper Title 2"
+title: "Paper Title 2: A Study on the Educational and Entertaining Aspects of the Cultural Reality Show "One Meal Across Millennium" "
 collection: publications
 category: manuscripts
-permalink: /publication/Paper Title 2
-excerpt: 'A Study on the Educational and Entertaining Aspects of the Cultural Reality Show "One Meal Across Millennium"'
+permalink: /publication/Journal Paper Title 2
+# excerpt: 'A Study on the Educational and Entertaining Aspects of the Cultural Reality Show "One Meal Across Millennium"'
 # date: 2010-10-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
