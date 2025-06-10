@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yifei Zhu"
+title                    : "YFZ"
 title_separator          : " - "
 #name                     : "" # &name ""
 description              : # &description "personal description"
@@ -21,7 +21,7 @@ repository               : "queermedia/queermedia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zyf.png"
+  avatar           : "site-logo.png"
   #name             : ""
   #pronouns         : # example: "she/her"  
   #bio              : ""
